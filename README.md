@@ -1,17 +1,11 @@
-<table>
-  <tr>
-    <td>
-      <h1>💫 Meachelle Nicole A. Abella</h1>
-      <p><b>🌱 Computer Science, at Cebu Institute of Technology University!</b></p>
-      <p>🌟 I'm a passionate Computer Science student at Cebu Institute of Technology University. I love exploring the endless possibilities technology offers and constantly seek new ways to grow and improve. When I'm not coding, you'll find me doodling in my sketchbook, experimenting with new recipes, or lost in a good book <small>(or even play some rpg games, special mention to BG3!).</small> </p>
-      <p>I'm just a humble learner, excited to share my journey and connect with fellow enthusiasts! 🌟</p>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/38e86181-61cc-4258-a62f-989ffd5efabf/main-qimg-f2da3389ed71ac27dd05e251442ae80d" width="200"/>
-    </td>
-  </tr>
-</table>
+# 💫 Meachelle Nicole A. Abella
 
+**` 🌱 Computer Science, at Cebu Institute of Technology University!`** 
+<img align="right" width=100px height=100px alt="side_sticker" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVqZDlxcXkzY2x1cWlpNXJ6dDJhNWVuaGEyZ2ZhaGEzMHFrdDVmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S9REhzFTQyNXVa11cU/giphy.gif" />
+
+<h5>🌟 I'm a passionate Computer Science student at Cebu Institute of Technology University. I love exploring the endless possibilities technology offers and constantly seek new ways to grow and improve. When I'm not coding, you'll find me doodling in my sketchbook, experimenting with new recipes, or lost in a good book. I'm just a humble learner, excited to share my journey and connect with fellow enthusiasts! 🌟</h5>
+
+>
 
 
 ## 🧰 Languages and Tools
